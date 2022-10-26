@@ -2,3 +2,5 @@ arrays
 strings
 tree
 stack
+linked list
+graph
